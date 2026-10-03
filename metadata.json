@@ -1,0 +1,8 @@
+{
+  "name": "Himalayan 450 MotoNav",
+  "description": "Minimalist motorcycle navigation for Royal Enfield Himalayan 450 with real-time turn-by-turn Tripper Dash Wi-Fi streaming and screen-off background support.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

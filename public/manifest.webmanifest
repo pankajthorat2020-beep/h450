@@ -1,0 +1,21 @@
+{
+  "id": "/",
+  "name": "Himalayan 450 MotoNav",
+  "short_name": "HimalayanNav",
+  "description": "Minimalist motorcycle navigation for Royal Enfield Himalayan 450 with real-time Tripper Dash Wi-Fi streaming.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#09090b",
+  "theme_color": "#09090b",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["navigation", "travel", "utilities"]
+}
